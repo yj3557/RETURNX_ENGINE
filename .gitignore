@@ -1,0 +1,16 @@
+node_modules
+# Node.js 관련
+node_modules/
+
+# IDE 설정 폴더
+.idea/
+
+# 백업 파일
+CNAME.bak
+
+# 로그 파일
+*.log
+
+# 빌드 결과물
+dist/
+build/

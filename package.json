@@ -1,0 +1,12 @@
+{
+  "name": "returnx_trade",
+  "version": "1.0.0",
+  "description": "RETURNX_Trade 엔진 프로젝트 공식 사이트",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "npm run build"
+  },
+  "author": "HYOUNGJUN",
+  "license": "MIT"
+}

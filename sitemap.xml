@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 루트 페이지 -->
+  <url>
+    <loc>https://returnx.co.kr/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 한국어 페이지 -->
+  <url>
+    <loc>https://returnx.co.kr/ko/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 개인정보 처리방침 -->
+  <url>
+    <loc>https://returnx.co.kr/privacy_policy.txt</loc>
+    <lastmod>2026-03-21</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>
